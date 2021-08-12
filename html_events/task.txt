@@ -1,0 +1,5 @@
+1. Create a new HTMl event. 
+2. Create a function that runs with this new HTML event.
+3. Have the function execute any code that changes content in the DOM
+4. Google other HTML events.
+5. Try creating different events based on other event types, like onmouseover, or onload.
