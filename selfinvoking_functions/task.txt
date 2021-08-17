@@ -1,0 +1,2 @@
+1. Create a self invoking function
+2. Have it execute on your page when the page loads.

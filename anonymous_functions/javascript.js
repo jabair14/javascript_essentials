@@ -8,6 +8,8 @@
 
 
 //anonymous functions are not global
+
+//practice
 let j = function(num1, num2) {
 	console.log(num1 * num2);
 }
