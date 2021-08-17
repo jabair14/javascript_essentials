@@ -1,0 +1,2 @@
+1. Create an anonymous function
+2. Have it execute on your page
