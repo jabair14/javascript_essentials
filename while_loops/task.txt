@@ -1,0 +1,2 @@
+1. Create a while loop
+2. Create a do..while loop
