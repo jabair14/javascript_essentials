@@ -1,0 +1,8 @@
+1. Create an object
+2. Create a function inside this object (technically those are called Methods)
+3. Run the method, make sure it works
+4. Change a property inside your object
+
+Bonus:
+5. Create a function that clones your property. 
+6. Loop through each key in your object and display its Data Type (String, Boolean, Array, etc);
