@@ -1,0 +1,6 @@
+1. Create a class.
+2. Add a constructor method to that class.
+3. Add another method to the same class.
+4. Extend your first class with another class (subclassing)
+5. Init both classes
+6. Have each class execute a method (return a value or console.log() so you know it's working)
