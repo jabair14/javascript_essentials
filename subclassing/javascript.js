@@ -38,3 +38,38 @@ var dog = new Dog('Chandler');
 dog.setSpecies('dog');
 dog.setName('Monica');
 
+// My Class 
+//-----------------------------------------
+
+// class Team {
+
+// 	constructor(name) {
+// 		this.city = 'unknown'
+// 		this.name = name
+// 		this.mascot = 'unknown'
+// 		this.results = '11-6'
+// 	}
+
+// 	record() {
+// 		console.log(this.results)
+// 	}
+
+// 	setName(name) {
+// 		this.name = name
+// 	}
+// }
+
+// class Steelers extends Team {
+
+// 	record(){
+// 		console.log('New Record: 17-0')
+// 	}
+
+// 	setCity(city){
+// 		this.city = city
+// 	}
+// }
+
+// var squad = new Steelers('Steelers')
+// squad.setCity('Pittsburgh')
+// console.log(squad)
