@@ -1,0 +1,4 @@
+1. Create an if statement
+2. Declare a let, const and var inside the if block
+3. Use console.log() outside of the if statement to see if your new vars give you any errors
+4. Try de-assigning a const and check if the browser lets you do that
