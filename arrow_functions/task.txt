@@ -1,0 +1,6 @@
+1. Create an arrow pointer function with parameters
+2. Create an arrow pointer function without parameters
+3. Create a regular function. 
+4. Try declaring different variable types inside of all 3 functions and accessing
+   them outside of the function -- this is good practice for learning about Scopes
+   within arrow pointer functions
