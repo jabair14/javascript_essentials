@@ -1,0 +1,7 @@
+1. Lookup frameworks and libraries.
+2. Look for jobs in your area and see if more of them want:
+	1) React
+	2) Vue
+	3) Angular
+	4) Other
+  And learn whatever you need to learn to fill the demand in your market.

@@ -12,3 +12,7 @@ if(name == "Kalob") {
 console.log(brothersName);
 
 
+//const - constant; will never be reassigned, global scope
+
+//let -  works within the scope of a function, not accessible outside of scope
+//var
